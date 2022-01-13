@@ -12,8 +12,8 @@ Our community are filled with amazing people and also the members are very activ
 
 # Links
 
-- [GitHub](https://github.com/osu-datenshi)
 - [GitLab](https://gitlab.com/osudatenshi)
 - [Portal](https://datenshi.pw)
 - [osu!](https://osu.datenshi.pw)
 - [Minecraft](https://mc.datenshi.pw)
+- [Click here to join our Github](https://datenshi-invite.herokuapp.com/)
