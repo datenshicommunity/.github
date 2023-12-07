@@ -1,14 +1,14 @@
 <h1 align="center"><a href="http://datenshi.pw"><img src="https://raw.githubusercontent.com/osu-datenshi/assets/master/logo.png"></h1>
 
-# Welcome
+# About us
 
-DATENSHI is a multi-gaming community server founded in 12 April 2020. We have two games that our community served to their players. There are osu! and Minecraft.
+Datenshi Games Indonesia is a leading provider of gaming server hosting services, with over 2000 registered users and growing. Our platform currently offers two exciting games, with plans to expand our offerings in the future.
 
-osu! is the first and the largest one community server in Indonesia, we are providing home for players who don't have any 'place' to take shelter
+As a company, we are dedicated to delivering high-quality, reliable gaming experiences to our users. We believe that gaming is more than just a hobby; it's a community that brings people together and allows them to connect in meaningful ways. Our goal is to provide a platform that fosters this sense of community and enables gamers to connect with each other from all over the world.
 
-Minecraft, is the best solution for people who tired of clicking circles in osu! and wanted to build or survive in a game.
+At Datenshi Games Indonesia, we pride ourselves on our commitment to excellence and our passion for gaming. We are constantly innovating and improving our services to ensure that our users have the best possible experience on our platform.
 
-Our community are filled with amazing people and also the members are very active, that's why DATENSHI is more interesting place, don't hesitate to join us!
+If you're looking for a gaming server provider that puts your needs first, look no further than Datenshi Games Indonesia. Join our community today and experience the thrill of gaming like never before.
 
 # Links
 
@@ -16,4 +16,4 @@ Our community are filled with amazing people and also the members are very activ
 - [Portal](https://datenshi.pw)
 - [osu!](https://osu.datenshi.pw)
 - [Minecraft](https://mc.datenshi.pw)
-- [Click here to join our Github](https://datenshi-invite.herokuapp.com/)
+- [LinkedIn](https://www.linkedin.com/company/datenshi-games-id/)
